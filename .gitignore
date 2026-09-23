@@ -1,6 +1,7 @@
 .env
 git-filter-repo
-node_modules
+**/node_modules/
+_site/
 npm-debug.log
 karaoke
 karaoke/*
